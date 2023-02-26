@@ -62,5 +62,3 @@ def ValueBFS(value):
                 list.append((child, new_parent_id))
             
     display(dag)
-
-
