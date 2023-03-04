@@ -1,4 +1,4 @@
-This repository created in education purposes. I want to gradually build my knowledge base in the ML
+This repository created in educational purposes. I want to gradually build my knowledge base in the ML
 
 Initially, I will try to reproduce https://github.com/karpathy/micrograd to better understand derivatives, its chain rules, gradients and, finally, gradient descent
 
